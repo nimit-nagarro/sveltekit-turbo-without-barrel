@@ -1,1 +1,1 @@
-export * from './type1';
+// export * from './type1';
